@@ -21,7 +21,7 @@ const config = {
   organizationName: 'Sophia-Edu-Labs', // Usually your GitHub org/user name.
   projectName: 'sophiaedulabs.github.io', // Usually your repo name.
   trailingSlash: false,
-  deploymentBranch: "main",
+  deploymentBranch: "deploy",
 
 
   onBrokenLinks: 'throw',
