@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksophiaedulabs_com=self.webpackChunksophiaedulabs_com||[]).push([[518],{147:a=>{a.exports=JSON.parse('{"label":"MVP","permalink":"/blog/tags/mvp","allTagsPath":"/blog/tags","count":1}')}}]);

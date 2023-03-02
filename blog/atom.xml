@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://your-docusaurus-test-site.com/blog</id>
+    <title>Sophia Edu Labs Blog</title>
+    <updated>2023-03-02T10:41:13.182Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://your-docusaurus-test-site.com/blog"/>
+    <subtitle>Sophia Edu Labs Blog</subtitle>
+    <icon>https://your-docusaurus-test-site.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Hello from Sophia Edu Labs]]></title>
+        <id>https://your-docusaurus-test-site.com/blog/Hello from Sophia Edu Labs</id>
+        <link href="https://your-docusaurus-test-site.com/blog/Hello from Sophia Edu Labs"/>
+        <updated>2023-03-02T10:41:13.182Z</updated>
+        <summary type="html"><![CDATA[Hello!]]></summary>
+        <content type="html"><![CDATA[<p>Hello!</p><p>We are currently working on our MVP and always excited to receive feedback from potential users.
+If you want to test our app and give feedback, please go to the tutorial and follow the steps provided there.</p>]]></content>
+        <author>
+            <name>Friedrich Wicke</name>
+            <uri>http://frido.ai/</uri>
+        </author>
+        <category label="MVP" term="MVP"/>
+    </entry>
+</feed>
