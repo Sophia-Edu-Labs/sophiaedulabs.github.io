@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunksophiaedulabs_com=self.webpackChunksophiaedulabs_com||[]).push([[570],{1136:a=>{a.exports=JSON.parse('{"label":"Sophia","permalink":"/blog/tags/sophia","allTagsPath":"/blog/tags","count":1}')}}]);
