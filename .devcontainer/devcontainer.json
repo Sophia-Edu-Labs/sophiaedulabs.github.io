@@ -44,6 +44,6 @@
     }
   },
   "forwardPorts": [3000],
-  "appPort": [3000],
+  // "appPort": [3000],
   "postCreateCommand": "yarn install"
 }
