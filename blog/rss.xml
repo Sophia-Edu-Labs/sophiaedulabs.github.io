@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>Sophia Edu Labs Blog</title>
-        <link>https://your-docusaurus-test-site.com/blog</link>
+        <link>https://sophiaedulabs.com/blog</link>
         <description>Sophia Edu Labs Blog</description>
-        <lastBuildDate>Thu, 02 Mar 2023 10:41:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jun 2023 22:31:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <item>
             <title><![CDATA[Hello from Sophia Edu Labs]]></title>
-            <link>https://your-docusaurus-test-site.com/blog/Hello from Sophia Edu Labs</link>
-            <guid>https://your-docusaurus-test-site.com/blog/Hello from Sophia Edu Labs</guid>
-            <pubDate>Thu, 02 Mar 2023 10:41:13 GMT</pubDate>
+            <link>https://sophiaedulabs.com/blog/Hello from Sophia Edu Labs</link>
+            <guid>https://sophiaedulabs.com/blog/Hello from Sophia Edu Labs</guid>
+            <pubDate>Mon, 05 Jun 2023 22:31:00 GMT</pubDate>
             <description><![CDATA[Hello!]]></description>
             <content:encoded><![CDATA[<p>Hello!</p><p>We are currently working on our MVP and always excited to receive feedback from potential users.
 If you want to test our app and give feedback, please go to the tutorial and follow the steps provided there.</p>]]></content:encoded>
