@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunksophiaedulabs_com=self.webpackChunksophiaedulabs_com||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Hello from Sophia Edu Labs","permalink":"/blog/Hello from Sophia Edu Labs"}]}')}}]);
