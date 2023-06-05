@@ -41,7 +41,10 @@ $ GIT_USER=<Your GitHub username> yarn deploy
 If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
 
 
-### Deployment from devcontainer
+#### Deployment from devcontainer
 * Run `yarn deploy`. 
 * If commit signing leads to some problems, try to run `git config --global gpg.program "$(which gpg2)"` in the devcontainer
 * If there seem to be problems with ssh key permissions, try to run `ssh-add ~/.ssh/id_rsa` (or whatever key you prefer) on your LOCAL host machine (NOT IN DEVCONTAINER!)
+
+#### Deployment via Github Action
+* Just push to the `source` branch (if you have the permission to do so 🙃) and then this version will be deployed to `main`, by magic (i.e. by a github action).
